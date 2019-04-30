@@ -1,0 +1,11 @@
+[alias]
+    st = status
+    ci = commit
+    br = branch
+    co = checkout
+    df = diff
+    lg = log
+    dc = diff --cached
+    logp = log -p --pretty=oneline --abbrev-commit
+    glog = log --graph --decorate --pretty=oneline --abbrev-commit
+    gloga = log --graph --decorate --pretty=oneline --abbrev-commit --all

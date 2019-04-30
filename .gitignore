@@ -1,0 +1,11 @@
+.workspace
+.metadata
+.idea
+*.iml
+*.project
+*.suo
+*.user
+*.sln.docstates
+*.ide/
+Thumbs.db
+ehthumbs.db
